@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { validateEmail } from "../../utils/helpers";
+import "../../styles/pages.css";
+import "../../styles/components.css";
+import "../../styles/global.css";
 
 const LoginForm = ({ onSubmit, loading, error }) => {
   const [formData, setFormData] = useState({
