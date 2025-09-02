@@ -41,7 +41,7 @@ const Home = () => {
         </div>
         <div className="hero-image">
           <img
-            src="https://via.placeholder.com/600x400?text=Hero+Image"
+            src="https://www.creativefabrica.com/wp-content/uploads/2021/03/02/Shopping-bag-Hand-holding-a-shopping-Graphics-9096002-1.png"
             alt="Shopping"
           />
         </div>
